@@ -4,17 +4,17 @@ Image recognition is referred to us the ability to recognize certain people, ani
 
 Pattern recognition is used to give human recognition intelligence to machine which is re- quired in image processing. Pattern recognition is used to extract meaningful features from given image/video samples and is used in computer vision for various applications like biological, biomed- ical imaging or plate number recognition. In my project, i am going to explore using the same technique for detecting number in an image. 
 
-Inline-style: 
+Stages of Experiment: 
 ![alt text](https://github.com/FrankDidier/HNRS_PR-Number-Recognition/blob/master/ter.png "Stages of Experiment")
 
 In this project, I’ll use numbers, but this could translate to all letters of the alphabet, words, faces etc...
 
 ## Test Output
 
-Inline-style: 
+Output from an input from of an image containing number 8: 
 ![alt text](https://github.com/FrankDidier/HNRS_PR-Number-Recognition/blob/master/A.jpeg "Output from an input from of an image containing number 8")
 
-Inline-style: 
+Performed on other numbers digit: 
 ![alt text](https://github.com/FrankDidier/HNRS_PR-Number-Recognition/blob/master/result.jpeg "Results:performed on other number digit")
 
 ## Getting Started
@@ -78,6 +78,4 @@ Please contact me for details on my code of conduct, and the process for submitt
 
 ## Author
 
-* **ISINGIZWE Didier Frank** - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **ISINGIZWE Didier Frank** - [HNRS_PR-Number-Recognition](https://github.com/HNRS_PR-Number-Recognition)
