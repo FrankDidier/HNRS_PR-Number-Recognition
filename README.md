@@ -80,4 +80,4 @@ Please contact me for details on my code of conduct, and the process for submitt
 
 ## Author
 
-* **ISINGIZWE Didier Frank** - [HNRS_PR-Number-Recognition](https://github.com/HNRS_PR-Number-Recognition)
+* **ISINGIZWE Didier Frank** - [HNRS_PR-Number-Recognition](https://github.com/FrankDidier/HNRS_PR-Number-Recognition)
