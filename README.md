@@ -4,10 +4,11 @@ Image recognition is referred to us the ability to recognize certain people, ani
 
 Pattern recognition is used to give human recognition intelligence to machine which is re- quired in image processing. Pattern recognition is used to extract meaningful features from given image/video samples and is used in computer vision for various applications like biological, biomed- ical imaging or plate number recognition. In my project, i am going to explore using the same technique for detecting number in an image. 
 
-Stages of Experiment: 
+In this project, I’ll use numbers, but this could translate to all letters of the alphabet, words, faces etc...
+
+## Methodology 
 ![alt text](https://github.com/FrankDidier/HNRS_PR-Number-Recognition/blob/master/ter.png "Stages of Experiment")
 
-In this project, I’ll use numbers, but this could translate to all letters of the alphabet, words, faces etc...
 
 ## Test Output
 
