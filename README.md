@@ -13,7 +13,7 @@ In this project, I’ll use numbers, but this could be applied to all letters of
 
 ### Test Output
 
-Output from an input from of an image containing number 8: 
+Output from an input of an image containing number 8: 
 ![alt text](https://github.com/FrankDidier/HNRS_PR-Number-Recognition/blob/master/A.jpeg "Output from an input from of an image containing number 8")
 
 Performed on other numbers digit: 
