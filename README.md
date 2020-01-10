@@ -1,16 +1,17 @@
 # Handwritten Number Recognition with Pattern Recognition
 
+## Introduction
 Image recognition is referred to us the ability to recognize certain people, animals, objects or other targeted subjects through the use of algorithms and machine learning concepts. The term “image recognition” is linked to “computer vision,” which is an overarching label for the process of training computers to “see” like humans, and “image processing,” which is a catch-all term for computers doing intensive work on image data, however pattern recognition is the automated recognition of patterns and regularities found in data.
 
 Pattern recognition is used to give human recognition intelligence to machine which is re- quired in image processing. Pattern recognition is used to extract meaningful features from given image/video samples and is used in computer vision for various applications like biological, biomed- ical imaging or plate number recognition. In my project, i am going to explore using the same technique for detecting number in an image. 
 
-In this project, I’ll use numbers, but this could translate to all letters of the alphabet, words, faces etc...
+In this project, I’ll use numbers, but this could be applied to all letters of the alphabet, words, faces etc...
 
-## Methodology 
+### Methodology 
 ![alt text](https://github.com/FrankDidier/HNRS_PR-Number-Recognition/blob/master/ter.png "Stages of Experiment")
 
 
-## Test Output
+### Test Output
 
 Output from an input from of an image containing number 8: 
 ![alt text](https://github.com/FrankDidier/HNRS_PR-Number-Recognition/blob/master/A.jpeg "Output from an input from of an image containing number 8")
